@@ -8,5 +8,5 @@ import { Component } from '@angular/core';
 
 export class AppComponent {
   title = 'angular sample Project';
-  name = 'IPhone';
+  name = 'OnePlus';
 }
